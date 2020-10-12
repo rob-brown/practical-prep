@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Identify Likely Disasters
+author: Robert Brown
 date: 2020-10-03 21:09:00 -0600
-categories: 
+categories:
 ---
 Before starting to prepare, you need to develop a plan. The following steps will help in building out a plan for your personal needs:
 
@@ -29,11 +30,11 @@ Here's a list of common disasters:
 
 * Man Made
   - Unemployment
-  - Injury 
+  - Injury
   - Disease
   - Death
 
-This is not a comprehensive list but it's a good place to start. Not all emergencies are applicable. A winter storm is unlikely in the tropics. A volcano obviously requires a volcano nearby. 
+This is not a comprehensive list but it's a good place to start. Not all emergencies are applicable. A winter storm is unlikely in the tropics. A volcano obviously requires a volcano nearby.
 
 ## Identify disrupted necessities
 
@@ -47,7 +48,7 @@ With the types of disasters identified, you next need to determine what will get
 * Health insurance
 * Mental/emotional health
 
-As you identify different needs you will see overlaps between different types of disasters. This will be important later. 
+As you identify different needs you will see overlaps between different types of disasters. This will be important later.
 
 ## Prioritize what to prepare
 
@@ -55,7 +56,7 @@ We all have limited means whether is be money, time, storage capacity, or other 
 
 ## Identify how to offset disruptions
 
-Speaking of filling needs, here are some idea of filling those needs. 
+Speaking of filling needs, here are some idea of filling those needs.
 
 | Need | Temporary Fulfillment |
 |:---|:---|
@@ -66,7 +67,7 @@ Speaking of filling needs, here are some idea of filling those needs.
 | Income/health insurance | Emergency fund |
 | Mental/emotional health | Family, friends, simple games |
 
-Note that these only provide temporary relief. You don't need to survive indefinitely, just long enough for a long-term solution. 
+Note that these only provide temporary relief. You don't need to survive indefinitely, just long enough for a long-term solution.
 
 ## Practice plans
 
@@ -81,8 +82,8 @@ Without practicing a plan, you may not remember it or act as quickly when the ti
 
 ## Repeat for other disasters
 
-Over time you will better equipped and more comfortable with your plan. You can then repeat this process for other types of emergencies. Or you can prepare more deeply for specific emergencies. 
+Over time you will better equipped and more comfortable with your plan. You can then repeat this process for other types of emergencies. Or you can prepare more deeply for specific emergencies.
 
 ## Conclusion
 
-While this post doesn't cover every scenario it should give you a place to start. Remember to prioritize, plan, and practice. 
+While this post doesn't cover every scenario it should give you a place to start. Remember to prioritize, plan, and practice.
