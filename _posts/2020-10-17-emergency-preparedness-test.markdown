@@ -39,4 +39,6 @@ In a recent block captain training, we were given an emergency preparedness test
 28. Do you have a plan for toilet facilities if there is an extended water shortage?
 29. Do you have a supply of food, clothing, and fuel where appropriate: For 6 months? For a year?
 
-So, how did you do? My hope is something on this list got you thinking about what you can do *now* to better prepare. I recommend everyone review this test every few months and evaluate your progress. 
+## Evaluation
+
+So, how did you do? My hope is something on this list got you thinking about what you can do *now* to better prepare. I recommend everyone review this test every few months and evaluate your progress.
