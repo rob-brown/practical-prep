@@ -1,0 +1,35 @@
+---
+layout: post
+title: I am HAM
+author: Robert Brown
+date: 2020-10-25 12:15:00 -0600
+categories:
+---
+I am now an officially licensed HAM operator. I considered doing it for many years now. Since becoming an emergency preparedness coordinator I decided it was time to do it. The process was surprisingly easy.
+
+There are three levels of HAM licenses: technician, general, and amateur extra. I took the technician exam and plan on at least taking the general exam later.
+
+I met another HAM radio operator at a recent CERT emergency drill. He pointed me to [hamstudy.org](https://hamstudy.org) to study for the test. They also have [iOS](https://apps.apple.com/us/app/hamstudy-org/id1371288324) and [Android](https://play.google.com/store/apps/details?id=org.hamstudy.mobile) apps. At the time of this writing they are $4, which was well spent. Disclaimer, I am *not* compensated for recommending HAM study. I just found it very useful. It uses a spaced-repetition system to study the test questions and their answers.
+
+The technician exam consists of 35 questions randomly taken from a pool of 428 questions. The current technician question pool runs from 2018-2022. To pass, you must get 26 questions correct (74%). The questions cover the following topics:
+
+| Topic | Number of Questions |
+|:---|---:|
+| 1. FCC rules, descriptions, and definitions | 6 |
+| 2. Operating procedures | 3 |
+| 3. Radio wave characteristics | 3 |
+| 4. Amateur radio practices | 2 |
+| 5. Electrical principles | 4 |
+| 6. Electrical components | 4 |
+| 7. Station equipment | 4 |
+| 8. Modulation modes | 4 |
+| 9. Antennas and feed lines | 2 |
+| 10. Electrical safety | 3 |
+
+Some questions involve basic math, particularly with the electrical principles. Simple calculators are allowed if you need one.
+
+Not only does HAM study help in studying for the test but it also but it also helps in [finding test sessions](https://hamstudy.org/sessions) near you. Most test sessions have a small fee ($10-15).
+
+After I passed the exam I had my call sign from the FCC two days later. I picked up an inexpensive, handheld radio and now I'm on the air.
+
+—KJ7RPN.
