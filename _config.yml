@@ -32,7 +32,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-incremental: true
+incremental: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
